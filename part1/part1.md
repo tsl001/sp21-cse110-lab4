@@ -1,3 +1,5 @@
+## Part 1a
+
 Question 1) num1 + num2 is printed by line 9
 
 Question 2) num1 + num2 is printed by line 13 if the else statement isn't executed.
@@ -10,7 +12,7 @@ Question 5) An error would occur because in line 7 we're trying to reassign the 
 
 Question 6) An error would occur because in line 7 we're trying to reassign the value of result but result is a const.
 
-__Part 1b__
+## Part 1b
 
 Question 1) The value of prices.length is printed out. 
 
